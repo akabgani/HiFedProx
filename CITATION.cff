@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying HiFedProx paper."
+type: software
+title: "HiFedProx: supplementary code for high-order regularization in federated learning"
+authors:
+  - family-names: Kabgani
+    given-names: Alireza
+license: MIT
+preferred-citation:
+  type: generic
+  title: "Beyond Conventional Federated Learning via High-Order Regularization"
+  authors:
+    - family-names: Kabgani
+      given-names: Alireza
+    - family-names: Ahookhosh
+      given-names: Masoud
+  year: 2026
+  url: "https://arxiv.org/abs/2609.09904"
+  identifiers:
+    - type: url
+      value: "https://arxiv.org/abs/2609.09904"
+      description: "arXiv:2609.09904"
